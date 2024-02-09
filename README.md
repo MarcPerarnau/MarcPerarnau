@@ -41,3 +41,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcPerarnau&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 💻 My PC
+- ![](https://img.shields.io/badge/AMD-Ryzen_9_7900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+- ![](https://img.shields.io/badge/NVIDIA-GTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
