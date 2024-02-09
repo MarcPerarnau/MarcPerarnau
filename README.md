@@ -9,9 +9,8 @@
 <a href="https://codepen.io/Marc-Liang-Perarnau-Olaya">![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/marc-liang-perarnau-olaya-670638281/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/el.chico.del.este/">![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="">![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
+<a href="https://ceurugby.com/">![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)</a>
+<a href="">![]()</a>
+<a href="">![]()</a>
