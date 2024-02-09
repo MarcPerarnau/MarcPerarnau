@@ -29,4 +29,15 @@
 ## Sobre mi
 - ⭐ Github Star ⭐
 - 💻 Web developer
+- ⬛ Programer
 - 👨‍🎓 <a href="https://www.ifp.es/landing/oferta-formativa?utm_source=bing&utm_medium=cpc&utm_campaign=IFP-DS-ES_bing_WDDOnline-Brand_sea-prf_bt_WAAGen_always-on_und_tm_es_es_ms_ongoing&utm_content=I10821M3017&c=I10821M3017&&msclkid=ec354f50fb111fb365a62a95049dac91&utm_source=bing&utm_medium=cpc&utm_campaign=IFP-DS-ES_bing_WDDOnline-Brand_sea-prf_bt_WAAGen_always-on_und_tm_es_es_ms_ongoing&utm_term=ifp&utm_content=BRAND&gclid=ec354f50fb111fb365a62a95049dac91&gclsrc=3p.ds">Student</a>
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcPerarnau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcPerarnau&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
