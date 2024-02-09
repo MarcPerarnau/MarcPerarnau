@@ -12,5 +12,15 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <a href="">![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
 <a href="https://ceurugby.com/">![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)</a>
-<a href="">![]()</a>
-<a href="">![]()</a>
+<a href="https://www.youtube.com/channel/UC2iAnALBCDMJW5aGPb942yw">![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+<a href="">![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
+<a href="https://github.com/MarcPerarnau/HTML">![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
+<a href="https://github.com/MarcPerarnau/HTML">![](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>
+<a href="https://github.com/MarcPerarnau/HTML">![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
+<a href="https://github.com/MarcPerarnau/PYTHON">![](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</a>
+<a href="https://github.com/MarcPerarnau/C">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
+<a href="">![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>
+<a href="">![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>
+<a href="">![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a>
+<a href="">![](https://img.shields.io/badge/NVIDIA-GTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)</a>
+<a href="https://open.spotify.com/user/31ebaouw3jo6luxvt75slhqrbmbm?si=5788c0439d3742b6">![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
