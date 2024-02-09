@@ -25,3 +25,8 @@
 <a href="">![](https://img.shields.io/badge/NVIDIA-GTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)</a>
 <a href="https://open.spotify.com/user/31ebaouw3jo6luxvt75slhqrbmbm?si=5788c0439d3742b6">![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 ![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+
+## Sobre mi
+- ⭐ Github Star ⭐
+- 💻 Web developer
+- 👨‍🎓 <a href="https://www.ifp.es/landing/oferta-formativa?utm_source=bing&utm_medium=cpc&utm_campaign=IFP-DS-ES_bing_WDDOnline-Brand_sea-prf_bt_WAAGen_always-on_und_tm_es_es_ms_ongoing&utm_content=I10821M3017&c=I10821M3017&&msclkid=ec354f50fb111fb365a62a95049dac91&utm_source=bing&utm_medium=cpc&utm_campaign=IFP-DS-ES_bing_WDDOnline-Brand_sea-prf_bt_WAAGen_always-on_und_tm_es_es_ms_ongoing&utm_term=ifp&utm_content=BRAND&gclid=ec354f50fb111fb365a62a95049dac91&gclsrc=3p.ds">Student</a>
