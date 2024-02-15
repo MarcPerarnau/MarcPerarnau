@@ -20,7 +20,7 @@
 <a href="https://github.com/MarcPerarnau/PYTHON">![](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="https://github.com/MarcPerarnau/C">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>
-<a href="">![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>
+<a href="https://github.com/MarcPerarnau/MYSQL">![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/NVIDIA-GTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)</a>
 <a href="https://open.spotify.com/user/31ebaouw3jo6luxvt75slhqrbmbm?si=5788c0439d3742b6">![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
