@@ -22,7 +22,7 @@
 <a href="">![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>
 <a href="https://github.com/MarcPerarnau/MYSQL">![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a>
-<a href="">![](https://img.shields.io/badge/NVIDIA-GTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)</a>
+<a href="">![](https://img.shields.io/badge/NVIDIA-RTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)</a>
 <a href="https://open.spotify.com/user/31ebaouw3jo6luxvt75slhqrbmbm?si=5788c0439d3742b6">![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 ![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 
