@@ -35,12 +35,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcPerarnau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcPerarnau&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Marc Perarnau GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcPerarnau&count_private=true&theme=radical)
 
 ## 💻 My PC
 - ![](https://img.shields.io/badge/AMD-Ryzen_9_7900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
