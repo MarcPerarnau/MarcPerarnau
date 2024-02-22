@@ -36,6 +36,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 ![Marc Perarnau GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcPerarnau&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcPerarnau&layout=compact)
 
 ## 💻 My PC
 - ![](https://img.shields.io/badge/AMD-Ryzen_9_7900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
