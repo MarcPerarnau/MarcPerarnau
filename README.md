@@ -38,32 +38,10 @@
 <p align="center">
 <a href="https://github.com/MarcPerarnau">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcPerarnau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcPerarnau&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src=""/>
 </a>
 </p>
 
 ## 💻 My PC
 - ![](https://img.shields.io/badge/AMD-Ryzen_9_7900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 - ![](https://img.shields.io/badge/NVIDIA-GTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-## Mis Extensiones de Visual Studio Code 
-
-- ![image](https://github.com/MarcPerarnau/MarcPerarnau/assets/151735878/124ea43f-bb58-4777-b4e8-214934533efc)
-Prettier - Code formatter
-- ![image](https://github.com/MarcPerarnau/MarcPerarnau/assets/151735878/b3b54175-dbb8-47f5-a358-957f101b8180)
-Open in Browser
-- ![image](https://github.com/MarcPerarnau/MarcPerarnau/assets/151735878/bba3e2b2-596b-4b64-9cd4-77075b0c2dae)
-Material Icon Theme
-- ![image](https://github.com/MarcPerarnau/MarcPerarnau/assets/151735878/b9e95ef5-7146-4aca-8a6d-a902f4b7664e)
-Live Server
-- ![image](https://github.com/MarcPerarnau/MarcPerarnau/assets/151735878/090e1139-d7e1-4107-81d4-254c57f93284)
-Live Share
-- ![image](https://github.com/MarcPerarnau/MarcPerarnau/assets/151735878/74edbfbc-3d70-4053-848f-06253c603145)
-Codesnap
-- ![image](https://github.com/MarcPerarnau/MarcPerarnau/assets/151735878/f5f15209-f0ad-44f6-baa3-6be795449ab3)
-Better Comments
-- ![image](https://github.com/MarcPerarnau/MarcPerarnau/assets/151735878/64c050dc-c1f2-45a4-af19-cefe03cef092)
-CSS Peek
-- 
-
-
