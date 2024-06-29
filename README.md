@@ -2,7 +2,7 @@
 <h1 align='center'>Hola, soy Marc Perarnau 🖖 </h1>
 </div>
 
-<img src="IMG/img1.png">
+<img align='center' src="IMG/img1.png">
 
 
 ## 👨‍💻 SOBRE MI
