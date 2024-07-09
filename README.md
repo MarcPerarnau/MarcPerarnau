@@ -13,23 +13,13 @@
 
 ## 📊 STATISTICS AND 🏆 TROPHIES
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcPerarnau&show_icons=true&locale=en" alt="MarcPerarnau" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcperarnau&show_icons=true&locale=en&layout=compact" alt="marcperarnau" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcPerarnau&" alt="MarcPerarnau" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcperarnau&show_icons=true&locale=en" alt="marcperarnau" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcperarnau&" alt="marcperarnau" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcPerarnau" alt="MarcPerarnau" /></a> </p>
-
-## 🌏 CONNECT WITH ME
-
-<a href="mailto:m.liang.perarnau@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/marcliangperarnauolaya/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
-
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 ## 🕸️ WEB DEVELOPMENT
 
