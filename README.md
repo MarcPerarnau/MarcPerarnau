@@ -6,12 +6,10 @@
 
 ![image](IMG/img1.png)
 
+## 🧑 ABOUT ME
+- 💬 Ask me about **Python, HTML, CSS, JS, C, Ruby**
 
-## 👨‍💻 ABOUT ME
-
-- Web Developer
-- Programmer
-- ASIR student at IFP 
+- 📫 How to reach me **m.liang.perarnau@gmail.com**
 
 ## 📊 STATISTICS AND 🏆 TROPHIES
 
