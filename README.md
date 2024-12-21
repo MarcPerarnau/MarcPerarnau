@@ -90,6 +90,9 @@
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
   <img src="https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/CTF-9cf?style=for-the-badge&logo=hack-the-box&logoColor=black">
+
 </p>
 
 ---
