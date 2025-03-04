@@ -108,6 +108,7 @@ Soy un **estudiante en ciberseguridad y desarrollo full-stack** con experiencia 
 ---
 
 ## 📫 **Contacto y Redes**  
-📩 **Email**: [m.liang.perarnau@gmail.com]  
+📩 **Email**: m.liang.perarnau@gmail.com
 🔗 **LinkedIn**: [linkedin.com/in/marclperarnauolaya](https://www.linkedin.com/in/marclperarnauolaya/)  
 🐙 **GitHub**: [github.com/MarcPerarnau](https://github.com/MarcPerarnau)  
+⏯️ **YouTube**: [DevLab](https://www.youtube.com/@DevLabp)
